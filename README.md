@@ -7,5 +7,8 @@ UIResources
 bootstrap可视化编辑：
   http://www.ibootstrap.cn/
   
+15个最好的Bootstrap设计工具推荐
+  http://www.csdn.net/article/2014-02-18/2818443-15-best-bootstrap-tools-for-designers
+  
 前端框架比较：
   http://usablica.github.io/front-end-frameworks/compare.html
